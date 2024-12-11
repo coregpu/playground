@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/dbajgoric/toptalprep#readme",
   "dependencies": {
-    "ejs": "^3.0.2",
+    "ejs": "^3.1.7",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
     "openweather-apis": "^4.2.0",
